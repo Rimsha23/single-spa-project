@@ -1,0 +1,9 @@
+{
+    "imports": {
+      "@mt/root-config": "//localhost:9000/mt-root-config.js",
+      "@mt/react-single":" //localhost:8080/mt-react-single.js",
+      "@mt/react-multiples":" //localhost:8081/mt-react-multiples.js",
+      "@mt/react-import":" //localhost:8082/mt-react-import.js",
+      "@mt/utils":" //localhost:8083/mt-utils.js"
+    }
+  }
